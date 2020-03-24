@@ -1,2 +1,4 @@
 program\HelloWorldMain.class
+tests\HelloWorldMainTest.class
+tests\HelloWorldTest.class
 program\HelloWorld.class
